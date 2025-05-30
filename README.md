@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Abdul Wasay
 
-<!--
-**WasayWithCode/WasayWithCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a Full Stack Developer passionate about building web apps and exploring tech!
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 🌐 Frontend: HTML, CSS, JavaScript, React
+- ⚙️ Backend: Node.js, Express, MongoDB
+- 🛢️ Databases: MongoDB, MySQL
+- 🛠️ Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulWasay&show_icons=true&theme=tokyonight)
+
