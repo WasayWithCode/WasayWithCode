@@ -1,30 +1,41 @@
-<h1 align="center">Hi 👋, I'm Wasay Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Abdul Wasay</h1>
 
 <h3 align="center">
-Full Stack Web Developer | React Developer | Open Source Learner
+Full Stack Web Developer | MERN Stack Developer | React Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+Developer;JavaScript+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate Web Developer
-- 🌱 Currently learning MERN Stack
-- 🔭 Building Real-World Projects
-- 📚 Learning Git & GitHub
+- 💻 Passionate Full Stack Web Developer
+- 🌱 Currently learning **MERN Stack**
+- 🚀 Building Real-World Projects
+- 📚 Learning Git & GitHub Best Practices
+- 🎯 Goal: Become a Professional Software Engineer
 - ⚡ Love Clean UI & Modern Web Apps
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,firebase,tailwind" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,firebase,git,github,vscode" />
 </p>
+
+---
+
+## 📚 Currently Learning
+
+- MERN Stack
+- Advanced React.js
+- REST APIs
+- GitHub Actions
+- Docker *(Coming Soon)*
 
 ---
 
@@ -64,21 +75,19 @@ Full Stack Web Developer | React Developer | Open Source Learner
 
 ### 🎬 Movixflix
 
-Movie Discovery App built with React & TMDB API.
+A modern movie discovery application built using **React.js** and the **TMDB API**.
 
-🔗 https://github.com/WasayWithCode/Movixflix
+🔗 **Repository:** https://github.com/WasayWithCode/Movixflix
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
 
-<a href="https://github.com/WasayWithCode">GitHub</a>
-
-<!-- LinkedIn -->
-<!-- Portfolio -->
-<!-- Email -->
+<a href="https://github.com/WasayWithCode">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
@@ -86,6 +95,8 @@ Movie Discovery App built with React & TMDB API.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=WasayWithCode&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=WasayWithCode&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
