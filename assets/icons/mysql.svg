@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 64 64" role="img" aria-label="mysql">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172A44"/><stop offset="1" stop-color="#0B1729"/></linearGradient></defs>
+ <rect x="1" y="1" width="62" height="62" rx="15" fill="url(#bg)" stroke="#2C425E" stroke-width="1.4"/>
+ <path d="M11 10h42" stroke="#FFFFFF" stroke-opacity=".08" stroke-linecap="round"/>
+ <g fill="none" stroke="#60A5FA" stroke-width="3.5"><ellipse cx="32" cy="19" rx="16" ry="7"/><path d="M16 19v24c0 9 32 9 32 0V19"/><path d="M16 31c0 9 32 9 32 0"/></g>
+ </svg>

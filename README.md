@@ -1,130 +1,232 @@
+<!-- GitHub profile README — Abdul Wasay | local SVGs in assets/ -->
 <div align="center">
 
-<img src="./hero.svg" width="100%" alt="Abdul Wasay — animated developer banner" />
+  <img src="./assets/hero.svg" width="100%" alt="Animated Abdul Wasay developer banner" />
 
+  <p>
+    <a href="https://3-d-portfolio-main-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-102339?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/abdulwasay-frontend/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/WasayWithCode?tab=repositories"><img src="https://img.shields.io/badge/Projects-164E63?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Projects" /></a>
+  </p>
 
-<a href="https://3-d-portfolio-main-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/abdulwasay-frontend/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/WasayWithCode?tab=repositories"><img src="https://img.shields.io/badge/Projects-173754?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1500&color=7DD3FC&center=true&vCenter=true&width=760&height=32&lines=Frontend+Developer+%7C+React+%26+Next.js;Building+clean%2C+responsive+web+experiences;Learning+DevOps%2C+Cloud+%26+the+MERN+stack" alt="Animated developer introduction" />
+  <p><img src="https://komarev.com/ghpvc/?username=WasayWithCode&amp;label=Profile%20Views&amp;color=0e7490&amp;style=flat-square" alt="Profile views" /></p>
 
 </div>
 
-Hello, I'm Abdul Wasay
-I'm a frontend web developer based in Karachi, Pakistan. I enjoy turning ideas into fast, accessible and visually polished web experiences — from responsive websites to interactive React applications.
+## About Me
 
-My main focus is React, Next.js, JavaScript and modern UI development. Alongside frontend engineering, I'm developing my backend knowledge and learning DevOps and cloud fundamentals to understand the complete path from code to deployment.
-- Focused on: Responsive interfaces, reusable components, APIs and performance
-- Building: Real-world projects and interactive web experiences
-- Learning: MERN stack, MySQL and DevOps / cloud foundations
-- Opportunities: Frontend internships, junior developer roles and collaborations
-Technical toolkit
-A clear view of the technologies I work with and the areas I'm developing.
+I'm **Abdul Wasay**, a frontend developer from **Karachi, Pakistan**, focused on clean interfaces, responsive websites and engaging web applications. I enjoy building with **React.js, Next.js, JavaScript and Tailwind CSS**, and turning design ideas into accessible, user-friendly experiences.
 
-Frontend development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,jquery,vite&perline=9" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind, Bootstrap, jQuery and Vite" />
-</p>
+- **What I build:** Responsive websites, React interfaces and practical web projects
+- **What I'm exploring:** Full-stack development, backend fundamentals and DevOps
+- **What matters to me:** Clean code, usability, performance and continuous learning
+- **Open to:** Junior frontend opportunities, internships and developer collaborations
 
+## Tech Stack
 
-Development tools & platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,wordpress,postman&perline=9" alt="Git, GitHub, VS Code, Vercel, Figma, WordPress and Postman" />
-</p>
+### Frontend Development
 
-
-Other technologies & experience
-
-REST APIs · JSON · XML · Responsive Design · UI/UX · JavaScript Validation · Shopify · Three.js · React Three Fiber
-Currently learning, not claiming professional expertise: PHP, MySQL, Node.js, Express, MongoDB, Docker, Linux, CI/CD and cloud technologies.
-
-Learning & growth
-DevOps & cloud journey
-<img src="./assets/devops-roadmap.svg" width="100%" alt="Animated DevOps roadmap: foundations, CI/CD, cloud infrastructure" />
-
-I'm expanding beyond frontend development to learn how software is built, tested, deployed and maintained. This is my learning roadmap, not a list of professional DevOps certifications.
-Stage	What I'm focusing on	Learning objective
-Now · Fundamentals	Linux command line, Git workflows, Docker & containers	Run and package applications consistently
-Learning · Automation	GitHub Actions, CI/CD, deployment workflows	Understand automated build and deployment pipelines
-Next · Cloud	AWS basics (EC2, S3, IAM), networking & hosting	Learn how cloud applications are deployed
-Later · Infrastructure	Kubernetes, Terraform, monitoring	Explore orchestration and infrastructure as code
-
-
-Full-stack development
-Alongside DevOps, I'm continuing to strengthen PHP, MySQL, REST APIs, and the Node.js + Express + MongoDB side of MERN development.
-<details>
-<summary><b>What I'm aiming to build next</b></summary>
-<br />
-
-- A containerized React + API project using Docker
-- An automated GitHub Actions workflow for testing and deployment
-- A full-stack application with authentication and database integration
-- A small cloud deployment documented from setup to production
-</details>
-
-Selected projects
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <b>ERP Pathway</b><br /><br />
-      A React-based platform exploring ERP learning and career pathways through a modern interface.<br /><br />
-      <sub>React · JavaScript · Vite</sub><br /><br />
-      <a href="https://erp-pathway.vercel.app/">Live demo</a> · <a href="https://github.com/WasayWithCode/erp-pathway">Repository</a>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/html5.svg" width="54" height="54" alt="HTML5 icon" /><br />
+      <sub><b>HTML5</b></sub>
     </td>
-    <td width="50%" valign="top">
-      <b>3D Portfolio</b><br /><br />
-      An interactive portfolio with animated sections and 3D web experiences.<br /><br />
-      <sub>React · Three.js · Tailwind CSS</sub><br /><br />
-      <a href="https://3-d-portfolio-main-theta.vercel.app/">Live demo</a> · <a href="https://github.com/WasayWithCode/3D_Portfolio-main">Repository</a>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/css3.svg" width="54" height="54" alt="CSS3 icon" /><br />
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/javascript.svg" width="54" height="54" alt="JavaScript icon" /><br />
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/react.svg" width="54" height="54" alt="React.js icon" /><br />
+      <sub><b>React.js</b></sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <b>Sanjalika Water Park</b><br /><br />
-      A responsive multi-page website with facilities, attractions, gallery and visitor information.<br /><br />
-      <sub>HTML · CSS · JavaScript · Bootstrap</sub><br /><br />
-      <a href="https://sanjalika-water-park-five.vercel.app/">Live demo</a> · <a href="https://github.com/WasayWithCode/Sanjalika_Water_Park">Repository</a>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/nextjs.svg" width="54" height="54" alt="Next.js icon" /><br />
+      <sub><b>Next.js</b></sub>
     </td>
-    <td width="50%" valign="top">
-      <b>Student Registration Portal</b><br /><br />
-      An interactive form-based app with validation, searching and student records.<br /><br />
-      <sub>HTML · CSS · JavaScript · jQuery</sub><br /><br />
-      <a href="https://wasaywithcode.github.io/Student-Registration-Portal/">Live demo</a> · <a href="https://github.com/WasayWithCode/Student-Registration-Portal">Repository</a>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/tailwind.svg" width="54" height="54" alt="Tailwind CSS icon" /><br />
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/bootstrap.svg" width="54" height="54" alt="Bootstrap icon" /><br />
+      <sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/jquery.svg" width="54" height="54" alt="jQuery icon" /><br />
+      <sub><b>jQuery</b></sub>
     </td>
   </tr>
 </table>
 
-<sub>More projects: <a href="https://github.com/WasayWithCode/Movixflix">Movixflix</a> · <a href="https://github.com/WasayWithCode?tab=repositories">Explore all repositories</a></sub>
-GitHub activity
+### Tools & Platforms
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/git.svg" width="54" height="54" alt="Git icon" /><br />
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/github.svg" width="54" height="54" alt="GitHub icon" /><br />
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/vscode.svg" width="54" height="54" alt="VS Code icon" /><br />
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/vercel.svg" width="54" height="54" alt="Vercel icon" /><br />
+      <sub><b>Vercel</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/wordpress.svg" width="54" height="54" alt="WordPress icon" /><br />
+      <sub><b>WordPress</b></sub>
+    </td>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/figma.svg" width="54" height="54" alt="Figma icon" /><br />
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/docker.svg" width="54" height="54" alt="Docker icon" /><br />
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/postman.svg" width="54" height="54" alt="Postman icon" /><br />
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
+
+**Also work with:** REST APIs · JSON · XML · Responsive Design · UI/UX · Three.js · React Three Fiber · Shopify
+
+## Currently Learning
+
+I'm steadily moving toward **full-stack development** while exploring the fundamentals of **DevOps, cloud infrastructure and automation**. These are learning goals, not claims of professional expertise.
+
+### Backend & Full Stack
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/php.svg" width="54" height="54" alt="PHP icon" /><br />
+      <sub><b>PHP</b></sub>
+    </td>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/mysql.svg" width="54" height="54" alt="MySQL icon" /><br />
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/nodejs.svg" width="54" height="54" alt="Node.js icon" /><br />
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/express.svg" width="54" height="54" alt="Express.js icon" /><br />
+      <sub><b>Express.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/mongodb.svg" width="54" height="54" alt="MongoDB icon" /><br />
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" valign="middle" width="25%" style="padding: 11px 8px;">
+      <img src="./assets/icons/vite.svg" width="54" height="54" alt="Vite icon" /><br />
+      <sub><b>Vite</b></sub>
+    </td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
+</table>
+
+### DevOps & Cloud Engineering
+
+<p align="center">
+  <img src="./assets/devops-roadmap.svg" width="100%" alt="Animated DevOps and Cloud learning roadmap" />
+</p>
+
+- **Current foundations:** Linux, Docker, Git workflows and container basics
+- **Automation:** GitHub Actions, CI/CD pipelines and deployment workflows
+- **Next on my roadmap:** AWS fundamentals, cloud hosting and networking
+- **Long-term exploration:** Kubernetes, Terraform and application monitoring
+
+<p align="center">
+  <img src="./assets/icons/linux.svg" width="48" height="48" alt="Linux" />&nbsp;&nbsp;
+  <img src="./assets/icons/docker.svg" width="48" height="48" alt="Docker" />&nbsp;&nbsp;
+  <img src="./assets/icons/githubactions.svg" width="48" height="48" alt="GitHub Actions" />&nbsp;&nbsp;
+  <img src="./assets/icons/aws.svg" width="48" height="48" alt="AWS" />&nbsp;&nbsp;
+  <img src="./assets/icons/kubernetes.svg" width="48" height="48" alt="Kubernetes" />&nbsp;&nbsp;
+  <img src="./assets/icons/terraform.svg" width="48" height="48" alt="Terraform" />
+</p>
+
+## Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ERP Pathway</h3>
+      <p>ERP learning and career guidance concept built with React and a modern user interface.</p>
+      <p><sub>React · Vite · JavaScript</sub></p>
+      <a href="https://erp-pathway.vercel.app/">Live Demo</a> · <a href="https://github.com/WasayWithCode/erp-pathway">Source Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Interactive 3D Portfolio</h3>
+      <p>Personal portfolio featuring 3D graphics, polished interactions and responsive pages.</p>
+      <p><sub>React · Three.js · Tailwind CSS</sub></p>
+      <a href="https://3-d-portfolio-main-theta.vercel.app/">Live Demo</a> · <a href="https://github.com/WasayWithCode/3D_Portfolio-main">Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Sanjalika Water Park</h3>
+      <p>Multi-page visitor website featuring attractions, facilities, gallery and contact pages.</p>
+      <p><sub>HTML · CSS · JavaScript · Bootstrap</sub></p>
+      <a href="https://sanjalika-water-park-five.vercel.app/">Live Demo</a> · <a href="https://github.com/WasayWithCode/Sanjalika_Water_Park">Source Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Student Registration Portal</h3>
+      <p>Student registration interface with validation, search and interactive record management.</p>
+      <p><sub>HTML · CSS · JavaScript · jQuery</sub></p>
+      <a href="https://wasaywithcode.github.io/Student-Registration-Portal/">Live Demo</a> · <a href="https://github.com/WasayWithCode/Student-Registration-Portal">Source Code</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/WasayWithCode/Movixflix">Movixflix</a> · <a href="https://github.com/WasayWithCode?tab=repositories">All Repositories</a>
+</p>
+
+## GitHub Activity
+
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=WasayWithCode&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasayWithCode&layout=compact&hide_border=true&theme=github_dark&langs_count=6" height="165" alt="Most-used GitHub repository languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=WasayWithCode&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;rank_icon=github" height="164" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasayWithCode&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;langs_count=6" height="164" alt="Top repository languages" />
 </div>
 
-<details>
-<summary><b>Animated contribution graph</b></summary>
-<br />
+### Contributions
+
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WasayWithCode/WasayWithCode/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WasayWithCode/WasayWithCode/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/WasayWithCode/WasayWithCode/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WasayWithCode/WasayWithCode/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WasayWithCode/WasayWithCode/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/WasayWithCode/WasayWithCode/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake (appears once GitHub Action runs)" />
+  </picture>
 </div>
 
-<sub>Appears after the included workflow successfully publishes its first output.</sub>
-</details>
+## Let's Connect
+
+I'm open to working on creative web experiences and learning with other developers.
 
 <div align="center">
-
-Let's build useful things for the web.
-
-Portfolio · LinkedIn · GitHub
-
-<sub>Abdul Wasay · Frontend developer · Always building, always learning</sub>
+  <a href="https://3-d-portfolio-main-theta.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/abdulwasay-frontend/">LinkedIn</a> · <a href="https://github.com/WasayWithCode">GitHub</a>
+  <br />
+  <img src="./assets/footer.svg" width="100%" alt="Animated profile footer" />
 </div>

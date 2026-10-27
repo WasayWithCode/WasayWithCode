@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" role="img" aria-label="Animated closing line and thank-you message">
+<defs><linearGradient id="l"><stop stop-color="#0F172A" stop-opacity="0"/><stop offset=".45" stop-color="#22D3EE"/><stop offset=".6" stop-color="#818CF8"/><stop offset="1" stop-color="#0F172A" stop-opacity="0"/></linearGradient></defs>
+<path d="M90 23H1110" stroke="url(#l)" stroke-width="1.5"/><circle r="4" cy="23" fill="#67E8F9"><animate attributeName="cx" values="90;1110" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="9s" repeatCount="indefinite"/></circle>
+<text x="600" y="60" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="14" font-weight="bold" letter-spacing="3" fill="#94B7D2">BUILDING · LEARNING · IMPROVING</text>
+</svg>

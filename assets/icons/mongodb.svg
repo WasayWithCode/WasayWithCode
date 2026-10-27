@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 64 64" role="img" aria-label="mongodb">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172A44"/><stop offset="1" stop-color="#0B1729"/></linearGradient></defs>
+ <rect x="1" y="1" width="62" height="62" rx="15" fill="url(#bg)" stroke="#2C425E" stroke-width="1.4"/>
+ <path d="M11 10h42" stroke="#FFFFFF" stroke-opacity=".08" stroke-linecap="round"/>
+ <path d="M33 9C18 23 20 40 32 53 44 39 47 21 33 9Z" fill="#4DB33D"/><path d="M32 19v29" stroke="#0F1E2F" stroke-width="2.8"/>
+ </svg>
