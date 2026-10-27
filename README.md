@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Abdul Wasay — animated developer banner" width="100%" />
+<img src="./hero.svg" alt="Abdul Wasay — animated developer banner" width="100%" />
 
 
 <a href="https://3-d-portfolio-main-theta.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0C1526?style=for-the-badge&logo=vercel&logoColor=white" /></a>
